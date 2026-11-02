@@ -2,6 +2,12 @@
 
 This repository hosts working papers developed at [**GeometrIA Lab**](https://www.cbg.ime.unicamp.br/GeometrIALab/en/). It provides a place to share preliminary manuscripts, preserve dated versions, and document ongoing research before submission to arXiv or other publication venues.
 
+## Working-paper catalogue
+
+| Working paper | Author(s) | Version and date | Status |
+|---|---|---|---|
+| [Flows of geometric structures III: stability, continuation and solitons](FlowsIII/README.md) · [PDF](FlowsIII/Flows_of_geometric_structures_III-v0.1-2026-11-02.pdf) | Henrique N. Sá Earp | v0.1 · 2026-11-02 | AI-assisted working paper; human certification pending |
+
 ## Manuscript status
 
 These papers are works in progress. They may contain incomplete arguments, provisional results, or sections that change substantially between versions. Inclusion in this repository does not imply peer review.
