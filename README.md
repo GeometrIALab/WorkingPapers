@@ -6,7 +6,10 @@ This repository hosts working papers developed at [**GeometrIA Lab**](https://ww
 
 | Working paper | Author(s) | Version and date | Status |
 |---|---|---|---|
+| Terao’s conjecture for complex line arrangements with at most seventeen lines · [PDF](TeraoConjecture/17lines.pdf) | Henrique N. Sá Earp, Tomás S. R. Silva | v0.1 · 2026-10-21 | AI-assisted working paper; preliminary manuscript, subject to revision |
+| Sasakian Hodge numbers of Calabi–Yau links · [PDF](LinkSasakianHodgeNumbers/Link_SHodge.pdf) | Edward Hirst, Henrique N. Sá Earp, Tomás S. R. Silva | v0.1 · 2026-10-21 | AI-assisted working paper; preliminary manuscript, subject to revision |
 | [Flows of geometric structures III: stability, continuation and solitons](FlowsIII/README.md) · [PDF](FlowsIII/Flows_of_geometric_structures_III-v0.1-2026-11-02.pdf) | Henrique N. Sá Earp | v0.1 · 2026-11-02 | AI-assisted working paper; human certification pending |
+| Numerical verification for harmonic maps · [PDF](EellsConjecture/Eells_counterexamples.pdf) | Edward Hirst, Daniel Platt, Henrique N. Sá Earp, Jakob Stein | v0.1 · 2026-11-06 | AI-assisted working paper; placeholder for the version to appear on arXiv |
 
 ## Manuscript status
 
