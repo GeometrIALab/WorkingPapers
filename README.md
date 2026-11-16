@@ -6,10 +6,15 @@ This repository hosts working papers developed at [**GeometrIA Lab**](https://ww
 
 | Working paper | Author(s) | Version and date | Status |
 |---|---|---|---|
-| Terao’s conjecture for complex line arrangements with at most seventeen lines · [PDF](TeraoConjecture/17lines.pdf) | Henrique N. Sá Earp, Tomás S. R. Silva | v0.1 · 2026-10-21 | AI-assisted working paper; preliminary manuscript, subject to revision |
-| Sasakian Hodge numbers of Calabi–Yau links · [PDF](LinkSasakianHodgeNumbers/Link_SHodge.pdf) | Edward Hirst, Henrique N. Sá Earp, Tomás S. R. Silva | v0.1 · 2026-10-21 | AI-assisted working paper; preliminary manuscript, subject to revision |
-| [Flows of geometric structures III: stability, continuation and solitons](FlowsIII/README.md) · [PDF](FlowsIII/Flows_of_geometric_structures_III-v0.1-2026-11-02.pdf) | Henrique N. Sá Earp | v0.1 · 2026-11-02 | AI-assisted working paper; human certification pending |
-| Numerical verification for harmonic maps · [PDF](EellsConjecture/Eells_counterexamples.pdf) | Edward Hirst, Daniel Platt, Henrique N. Sá Earp, Jakob Stein | v0.1 · 2026-11-06 | AI-assisted working paper; placeholder for the version to appear on arXiv |
+| Flows of geometric structures III: stability, continuation and solitons · [PDF](FlowsIII/Flows_of_geometric_structures_III-v0.1-2026-11-02.pdf) · [README](FlowsIII/README.md) | Henrique N. Sá Earp | v0.1 · 2026-11-02 | AI-assisted working paper; human certification pending |
+
+## Completed papers
+
+| arXiv | Paper | Author(s) | Version and date | Status |
+|---|---|---|---|---|
+| [2611.14689](https://arxiv.org/abs/2611.14689) | Foliations, free cores, and Terao’s conjecture for seventeen lines · [PDF](completed_papers/TeraoConjecture/2611.14689v1.pdf) | Felipe Monteiro, Henrique N. Sá Earp, Tomás S. R. Silva | v1 · 2026-11-10 | Posted on arXiv (math.AG) |
+| [2611.17419](https://arxiv.org/abs/2611.17419) | Sasakian Hodge numbers of Calabi–Yau links · [PDF](completed_papers/LinkSasakianHodgeNumbers/2611.17419v1.pdf) | Edward Hirst, Henrique N. Sá Earp, Tomás S. R. Silva | v1 · 2026-11-12 | Posted on arXiv (math.AG) |
+| [2611.17697](https://arxiv.org/abs/2611.17697) | Numerical verification for harmonic maps: counterexamples to Eells’ conjecture · [PDF](completed_papers/EellsConjecture/2611.17697v1.pdf) | Edward Hirst, Daniel Platt, Henrique N. Sá Earp, Jakob Stein | v1 · 2026-11-13 | Posted on arXiv (math.DG) |
 
 ## Manuscript status
 
