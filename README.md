@@ -8,19 +8,19 @@ This repository hosts working papers developed at [**GeometrIA Lab**](https://ww
 |---|---|---|---|
 | Flows of geometric structures III: stability, continuation and solitons · [PDF](FlowsIII/Flows_of_geometric_structures_III-v0.1-2026-11-02.pdf) · [README](FlowsIII/README.md) | Henrique N. Sá Earp | v0.1 · 2026-11-02 | AI-assisted working paper; human certification pending |
 
+These papers are works in progress. They may contain incomplete arguments, provisional results, or sections that change substantially between versions. Inclusion in this repository does not imply peer review.
+
+Please consult the version and date of each manuscript when reading, discussing, or citing it.
+
 ## Completed papers
+
+These working papers have since been completed and posted to arXiv...
 
 | arXiv | Paper | Author(s) | Version and date | Status |
 |---|---|---|---|---|
 | [2611.14689](https://arxiv.org/abs/2611.14689) | Foliations, free cores, and Terao’s conjecture for seventeen lines · [PDF](completed_papers/TeraoConjecture/2611.14689v1.pdf) | Felipe Monteiro, Henrique N. Sá Earp, Tomás S. R. Silva | v1 · 2026-11-10 | Posted on arXiv (math.AG) |
 | [2611.17419](https://arxiv.org/abs/2611.17419) | Sasakian Hodge numbers of Calabi–Yau links · [PDF](completed_papers/LinkSasakianHodgeNumbers/2611.17419v1.pdf) | Edward Hirst, Henrique N. Sá Earp, Tomás S. R. Silva | v1 · 2026-11-12 | Posted on arXiv (math.AG) |
 | [2611.17697](https://arxiv.org/abs/2611.17697) | Numerical verification for harmonic maps: counterexamples to Eells’ conjecture · [PDF](completed_papers/EellsConjecture/2611.17697v1.pdf) | Edward Hirst, Daniel Platt, Henrique N. Sá Earp, Jakob Stein | v1 · 2026-11-13 | Posted on arXiv (math.DG) |
-
-## Manuscript status
-
-These papers are works in progress. They may contain incomplete arguments, provisional results, or sections that change substantially between versions. Inclusion in this repository does not imply peer review.
-
-Please consult the version and date of each manuscript when reading, discussing, or citing it.
 
 ## Standard procedure: authorship and human certification
 
