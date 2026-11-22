@@ -7,6 +7,8 @@ This repository hosts working papers developed at [**GeometrIA Lab**](https://ww
 | Working paper | Author(s) | Version and date | Status |
 |---|---|---|---|
 | Flows of geometric structures III: stability, continuation and solitons · [PDF](FlowsIII/Flows_of_geometric_structures_III-v0.1-2026-11-02.pdf) · [README](FlowsIII/README.md) | Henrique N. Sá Earp | v0.1 · 2026-11-02 | AI-assisted working paper; human certification pending |
+| Singular G₂-instantons over twisted connected sums · [PDF](SingularG2InstantonsTCS/Singular_G2_instantons_TCS-v0.1-2026-11-22.pdf) · [README](SingularG2InstantonsTCS/README.md) | Grégoire Menet, Henrique N. Sá Earp, and Yuanqi Wang | v0.1 · 2026-11-22 | AI-assisted working paper under author review |
+| Singular G₂-instantons over twisted connected sums II · [PDF](SingularG2InstantonsTCS/Singular_G2_instantons_TCS_II-v0.1-2026-11-22.pdf) · [README](SingularG2InstantonsTCS/README.md) | Grégoire Menet, Henrique N. Sá Earp, and Yuanqi Wang | v0.1 · 2026-11-22 | AI-assisted working paper under author review |
 
 These papers are works in progress. They may contain incomplete arguments, provisional results, or sections that change substantially between versions. Inclusion in this repository does not imply peer review.
 
